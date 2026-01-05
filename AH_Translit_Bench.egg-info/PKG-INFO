@@ -1,3 +1,11 @@
+Metadata-Version: 2.4
+Name: AH-Translit-Bench
+Version: 2.1.1
+Summary: Arabic to Hindi transliteration benchmark dataset (2k per domain)
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 # **AH-Translit_Benchmark**
 
 **Arabic → Hindi Transliteration Benchmark Dataset**
